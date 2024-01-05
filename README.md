@@ -41,7 +41,23 @@ D) Atualizar livros - O front end chamará a API do produtor que criará uma men
 Eu sei que esta pode não ser a melhor ou mais correta maneira de usar mensagens e apache kafka, mas este é apenas um projeto de estudo simples.
 Não sou um desenvolvedor front end então não repare nas telas feias, sou um desenvolvedor back end querendo melhorar habilidades de front end então este é um projeto full stack.
 
-## Project Screens / Telas do Projeto:
+<h2 align="center"> :woman_technologist: Technologies, APIs and Libraries / Tecnologias, APIs e Bibliotecas :man_technologist: </h2>
+<p>
+
+- Java 21
+- Maven
+- Swagger
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- JUnit 5
+- Mockito
+- PostgreSQL
+- Mapstruct
+- Lombok
+
+
+<h2 align="center"> 🖥️: Project Screens / Telas do Projeto: </h2>
 
 [EN] This project will basically have 4 screens [PT-BR] Este projeto terá basicamente 4 telas:
 Prototype made using Figma.
@@ -58,7 +74,8 @@ Prototype made using Figma.
 **D) Update Books Page / Página de Atualização de Livros**
 ![image](https://github.com/brunbs/backend-producer-books/assets/62837683/d0f1a53e-eabe-4308-ac68-5cee5c771b7f)
 
-## Solutions Diagrams / Diagramas de Solução:
+<h2 align="center"> 📈 Solutions Diagrams / Diagramas de Solução: </h2>
+
 **A) Create Book**
 ![create book](https://github.com/brunbs/backend-producer-books/assets/62837683/935eb8b5-8499-46d5-8ec6-90a577bfcae8)
 
