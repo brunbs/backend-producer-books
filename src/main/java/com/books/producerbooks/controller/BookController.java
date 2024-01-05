@@ -16,7 +16,7 @@ public class BookController {
     @PostMapping
     public ResponseEntity<String> createBook(@RequestBody BookRequest bookRequest) {
         bookProducerService.createBookService(bookRequest);
-        return ResponseEntity.ok().body("OK");
+        return ResponseEntity.ok().body("Book sent to creation queue");
     }
 
 }
