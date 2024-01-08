@@ -11,7 +11,7 @@ API producer for books books project where i'm practicing the use of Apache Kafk
 The idea is to build a simple project that uses messaging to communicate apis. There will be no focus on business logics, rules, lots of classes or complex databases commands.
 This project has 3 repositories:
 - An  API Producer (this repo)
-- A Consumer (another repo, will link here after its develop starts)
+- A Consumer: <a href="https://github.com/brunbs/backend-consumer-books">click here for the repository</a>
 - An Angular Front end application (will also link here when it starts)
 
 This project will be a system that creates, lists, deletes and updates books of a library.
